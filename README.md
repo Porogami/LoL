@@ -1,3 +1,0 @@
-# LoL
-LoL Scripts
-Porogami
